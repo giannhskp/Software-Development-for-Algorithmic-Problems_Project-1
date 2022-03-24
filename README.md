@@ -21,7 +21,9 @@ In order to find the aproximate nearest neighbor(s) we use:
 ## Part 2
 
 Vector Clustering.
+
 The initialization of the clusters is done using kMeans++.
+
 The assignment to each cluster can be performed by each of the following:
   - Lloyds assignment.
   - LSH reverse assignment using Range search.
